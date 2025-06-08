@@ -19,7 +19,7 @@ from torch.utils.data import Dataset, DataLoader
 import DCMamba
 
 import models, trainers, datasets, utils
-from config_trAISformer import Config
+from config_Bi_SSE import Config
 
 from LSTM import LSTM_for_AIS
 from LSTM_atten import LSTMWithAttention
