@@ -5,3 +5,12 @@ You can refer to https://github.com/AlwaysFHao/Mamba-Install for installing mamb
 
 
 The code is inspired by the project at https://github.com/CIA-Oceanix/TrAISformer.
+
+
+
+## USE
+
+```bash
+python3  Bi_SSE.py
+```
+
