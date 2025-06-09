@@ -8,7 +8,7 @@ The code is inspired by the project at https://github.com/CIA-Oceanix/TrAISforme
 
 
 
-You can [obtain the paper directly ](paper.pdf)or [access it online]([Enhancing vessel trajectory prediction with bi-state space and squeeze excitation attention - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0029801825013940)).
+You can [obtain the paper directly ](paper.pdf)or [access it online](https://www.sciencedirect.com/science/article/pii/S0029801825013940).
 
 ## USE
 
